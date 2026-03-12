@@ -38,9 +38,9 @@ CREATE TABLE  Applications (
 );
 
 INSERT INTO Students (Name, Email, Branch, CGPA, ResumeLink) VALUES
-('Alice Smith', 'alice@example.com', 'Computer Science', 8.5, 'http://resume.com/alice'),
-('Bob Johnson', 'bob@example.com', 'Electrical Engineering', 7.2, 'http://resume.com/bob'),
-('Charlie Brown', 'charlie@example.com', 'Mechanical Engineering', 6.8, 'http://resume.com/charlie'),
+('praveen', 'praveen@gmail.com', 'Computer Science', 8.5, 'http://resume.com/alice'),
+('shashank', 'shashank@gmail.com', 'Electrical Engineering', 7.2, 'http://resume.com/bob'),
+('shivaram reddy', 'shivaram@.com', 'Mechanical Engineering', 6.8, 'http://resume.com/charlie'),
 ('Diana Prince', 'diana@example.com', 'Computer Science', 9.1, 'http://resume.com/diana'),
 ('Eva Green', 'eva@example.com', 'Information Technology', 8.0, 'http://resume.com/eva');
 
